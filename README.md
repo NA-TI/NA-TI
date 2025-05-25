@@ -53,7 +53,7 @@
 
 ### 🤝 Let’s Connect!
 
-I’m always open to exciting collaborations – whether it's 3D visuals, coding scalable web apps, or just chatting about Naruto or creative tech.
+I’m always open to exciting collaborations, whether it's 3D visuals, coding scalable web apps, or just chatting about Naruto or creative tech.
 
 📬 **natihabtamu199@gmail.com**
 ---
