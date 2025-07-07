@@ -37,20 +37,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=na-ti&show_icons=true&theme=radical" alt="na-ti's GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=na-ti&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
-<!-- Optional GitHub Actions badge for a specific repo -->
-<!-- Replace path if needed -->
-<!-- ![CI](https://github.com/na-ti/EDSM/actions/workflows/main.yml/badge.svg) -->
-
----
-
 ### 🤝 Let’s Connect!
 
 I’m always open to exciting collaborations, whether it's 3D visuals, coding scalable web apps, or just chatting about Naruto or creative tech.
