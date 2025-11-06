@@ -9,9 +9,9 @@
 
 ### 🧠 What I’m Doing
 
-- 🚀 Building **EDSM** – Ethiopia’s first digital stock market platform (like Robinhood for Ethiopia)  
-- ✍️ Designing immersive **3D product visuals** with Blender for brands  
-- 💻 Crafting beautiful & functional **web interfaces** using React, Next.js, and Tailwind  
+- 🚀 Building VPay – Ethiopia’s first merchant-first QR-based split-payment platform.
+- ✍️ Designing immersive **3D product visuals** with Blender for brands.
+- 💻 Building seamless web and mobile experiences with React, Next.js, Tailwind, and Flutter.
 - 🌍 Learning and multitasking across design, development, and animation  
 
 ---
