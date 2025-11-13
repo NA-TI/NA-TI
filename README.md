@@ -9,7 +9,7 @@
 
 ### 🧠 What I’m Doing
 
-- 🚀 Building VPay – Ethiopia’s first merchant-first QR-based split-payment platform.
+- 🚀 Building VPay.....
 - ✍️ Designing immersive **3D product visuals** with Blender for brands.
 - 💻 Building seamless web and mobile experiences with React, Next.js, Tailwind, and Flutter.
 - 🌍 Learning and multitasking across design, development, and animation  
